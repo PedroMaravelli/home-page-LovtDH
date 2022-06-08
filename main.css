@@ -211,14 +211,3 @@ main{
 
 
 
-
-@media (max-width: 499px) {
-    .logo h1{
-        font-size: 30px;
-    }
-    header .loho h2{
-        font-size: 8px;
-    }
-
-    
-}
